@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadArchitect", "RoadArchitect.csproj", "{78415FC6-8BD0-38B6-F2F6-A1FB0756AD95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FD2B69A4-9569-AF71-30A0-1C28C9324690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{B5E974A8-57B2-9763-3E85-5F65CAF90F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78415FC6-8BD0-38B6-F2F6-A1FB0756AD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78415FC6-8BD0-38B6-F2F6-A1FB0756AD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78415FC6-8BD0-38B6-F2F6-A1FB0756AD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78415FC6-8BD0-38B6-F2F6-A1FB0756AD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2B69A4-9569-AF71-30A0-1C28C9324690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2B69A4-9569-AF71-30A0-1C28C9324690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2B69A4-9569-AF71-30A0-1C28C9324690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2B69A4-9569-AF71-30A0-1C28C9324690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E974A8-57B2-9763-3E85-5F65CAF90F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E974A8-57B2-9763-3E85-5F65CAF90F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E974A8-57B2-9763-3E85-5F65CAF90F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E974A8-57B2-9763-3E85-5F65CAF90F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
